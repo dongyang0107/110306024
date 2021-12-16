@@ -1,0 +1,11 @@
+body{background-color: lightyellow;}
+a.nodec{text-decoration: none;}
+a:hover{color: red;}
+li em{color: blue;}
+h1, em{color: green;}
+ul{margin-left: 28px;}
+ul ul{font-size: .8em;}
+p{color: red;}
+div{border: 1px solid black;
+
+}
